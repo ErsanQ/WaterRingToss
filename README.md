@@ -8,7 +8,8 @@
 ## 📱 Demo
 
 <!-- Add your screen recording GIF here -->
-![demo](Assets/demo.gif)
+[![demo](Assets/demo.gif)](https://github.com/ErsanQ/WaterRingToss/raw/main/Assets/demo.mp4
+)
 
 ---
 
