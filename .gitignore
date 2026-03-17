@@ -1,0 +1,34 @@
+# ── Xcode ──────────────────────────────────────────────
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+*.xcworkspace/xcshareddata/swiftpm/
+DerivedData/
+.DS_Store
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.perspectivev3
+!default.perspectivev3
+
+# ── Build ───────────────────────────────────────────────
+build/
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# ── Swift Package Manager ───────────────────────────────
+.swiftpm/
+Packages/
+Package.resolved
+
+# ── CocoaPods ───────────────────────────────────────────
+Pods/
+Podfile.lock
+
+# ── macOS ───────────────────────────────────────────────
+.DS_Store
+.AppleDouble
+._*
+.Spotlight-V100
+.Trashes
